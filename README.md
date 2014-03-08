@@ -1,4 +1,5 @@
 racketlapse
 ===========
 
-A very simple programme to build a timelapse using the Raspberry Pi camera
+A very simple program to build a timelapse using the Raspberry Pi camera.
+Very initial tests
